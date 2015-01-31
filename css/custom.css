@@ -1,0 +1,127 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body
+{
+    padding-top: 50px;
+
+    color: white;
+    background-color: #1a1a1a;
+}
+
+.wrapper
+{
+    padding-top: 15px;
+
+    background-color: #252222;
+}
+
+.form-control
+{
+    height: 24px;
+}
+
+.img-thumbnail
+{
+    margin: 20px 0;
+}
+
+.logo
+{
+    padding: 20px;
+}
+
+footer
+{
+    padding: 20px;
+    /*border-top: #f19408 solid 5px;*/
+    background-color: #1a1a1a;
+}
+
+.main
+{
+    padding-top: 10px;
+
+    border-top: #f19408 solid 5px;
+    background-color: #1a1a1a;
+}
+p
+{
+    font-family: 'Open Sans', sans-serif;
+	padding: 20px 0;
+    color: white;
+}
+
+hr
+{
+    border-top: #f19408 solid 5px;
+}
+
+li a,
+li:hover
+{
+    color: white;
+}
+
+h4
+{
+    font-family: 'Open Sans', sans-serif;
+
+    margin: 0;
+
+    color: white;
+}
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;  
+}
+
+:-ms-input-placeholder {  
+   text-align: center; 
+}
+
+
+.img-set:hover
+{
+    opacity: .6;
+}
+
+.img-thumbnail
+{
+    margin: 20px 0;
+}
+
+.form-inline
+{
+    padding-top: 40px;
+}
+
+.btn-danger {
+	background: red;
+
+}
+
+@media (max-width: 768px)
+{
+    .btn,
+    btn-warning btn-sn
+    {
+        margin-bottom: 20px;
+    }
+
+    .navbar-collapse
+    {
+        text-align: center;
+    }
+}
+
