@@ -111,6 +111,13 @@ h4
 
 }
 
+.sports li a {
+	list-style: none;
+	padding: 0 15px;
+	color: #e38d13;
+
+}
+
 @media (max-width: 768px)
 {
     .btn,
